@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+body {
+	margin: 0;
+}
+.title {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+}
+p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+}
+.subtitle {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+.pfp {
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+	height: auto;
+ 	border-radius: 50%;
+}
+.topnav {
+        background-color: #181c24;
+        overflow: hidden;
+        width: 100%;
+        height: auto;
+        text-align: center;
+}
+.topnavcenter {
+	width: 50%;
+	margin: auto;
+}
+.fa-github {
+        background: #330938;
+        color: white;
+}
+.fa-youtube {
+	background: #bb0000;
+	color: white;
+}
+.fa-twitter {
+	background: #45bbff;
+ 	color: white;
+}
+.fa {
+ 	padding: 15px;
+ 	font-size: 20px;
+ 	width: 20px;
+ 	text-align: center;
+ 	text-decoration: none;
+ 	margin: 5px 2px;
+ 	border-radius: 50%;
+}
+.fa:hover {
+ 	opacity: 0.7;
+}
+.socials {
+	text-align: center;
+}
+.center {
+	margin: auto;
+	width: 50%;
+ 	padding: 10px;
+ 	text-align: center;
+}
+.text {
+	text-align: center;
+	width: 50%;
+ 	padding: 10px;
+ 	border-style: solid;
+}
