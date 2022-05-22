@@ -73,3 +73,8 @@ p {
  	padding: 10px;
  	border-style: solid;
 }
+.centerkofi {
+	margin: auto;
+	width: 50%;
+ 	text-align: center;
+}
