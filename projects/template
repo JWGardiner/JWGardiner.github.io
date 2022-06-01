@@ -1,0 +1,19 @@
+<html>
+    <link rel="stylesheet" href="../css/stylesheet.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="icon" href="img/jwg.png">
+
+    <title> James Gardiner </title>
+    <head>
+        <div class="topnav" class="topnavcenter">
+            <p>
+                <a class="topnavcenter" href="index.html" align="center"><i class="material-icons" style="color:white;">home</i></a>
+                <a class="topnavcenter" href="projects.html" align="center"><i class="material-icons" style="color:white;">folder_open</i></a>
+            </p>
+        </div>
+        <a class="backarrow" href="../index.html"><i class="material-icons" style="color:white;">arrow-left</i></a>
+    </head>
+    <body>
+    </body>
+</html>
