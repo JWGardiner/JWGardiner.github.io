@@ -27,8 +27,8 @@ a {
 	display: block;
         margin-left: auto;
         margin-right: auto;
-        width: auto;
-	height: auto;
+        width: 10%;
+	height: 10%;
  	border-radius: 50%;
 }
 .topnav {
