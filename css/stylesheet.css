@@ -27,8 +27,9 @@ a {
 	display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100px;
-	height: 100px;
+        width: 250px;
+	height: 250px;
+
  	border-radius: 50%;
 }
 .topnav {
@@ -36,6 +37,7 @@ a {
         overflow: hidden;
         width: 100%;
         height: auto;
+        overflow: hidden;
         text-align: center;
 }
 .topnavcenter {
